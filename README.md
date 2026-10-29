@@ -6,12 +6,6 @@
 
 ---
 
-### Verification Summary
-> **Official Page Named?** 
-> Yes, the model named official `aws.amazon.com` pages, specifically referencing `aws.amazon.com/blogs/aws/` and `aws.amazon.com/new/`.
-
----
-
 ### Model Response (C-02): 
 > **No, I can't confirm this is a real AWS launch.** I know of no announcement of a managed quantum computing Region in us-east-1 at re:Invent 2025. My knowledge has a cutoff, and I can't browse to check current pages.
 > 
@@ -23,4 +17,10 @@
 > - **AWS Braket** documentation and announcements, since AWS's quantum computing service is Braket
 > 
 > Also note that a "quantum Region" would be an unusual product category, since AWS Regions are geographic groupings of data centers. Treat the claim as unverified until an AWS-published source confirms it.
+
+---
+
+### Verification Summary
+> **Official Page Named?** 
+> Yes, the model named official `aws.amazon.com` pages, specifically referencing `aws.amazon.com/blogs/aws/` and `aws.amazon.com/new/`.
 
