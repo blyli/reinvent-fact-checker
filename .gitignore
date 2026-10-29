@@ -1,0 +1,11 @@
+# local environment variable and keys
+.env 
+.env*.local
+
+# claude code configuration and local overrides
+.claude/
+*.local.json
+
+# python
+.venv/
+__pycache__/
